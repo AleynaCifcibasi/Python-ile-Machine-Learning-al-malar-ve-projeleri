@@ -29,6 +29,6 @@ Bu depo, **Tech İstanbul** bünyesinde gerçekleştirilen **Python ile Veri Bil
 
 📂 Dosya Yapısı
 
-├── Python_Oturum_1.ipynb   # 1. Oturum: Değişkenler, operatörler ve koşullu durumlar
-├── Python_Oturum_2.ipynb   # 2. Oturum: Döngüler, fonksiyonlar ve veri yapıları
-└── README.md               # Proje tanıtım dokümanı
+├── Python_Oturum_1.ipynb  # 1. Oturum: Değişkenler, operatörler ve koşullu durumlar
+├── Python_Oturum_2.ipynb  # 2. Oturum: Döngüler, fonksiyonlar ve veri yapıları
+└── README.md              # Proje tanıtım dokümanı
