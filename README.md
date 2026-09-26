@@ -17,9 +17,18 @@ Bu depo, **Tech İstanbul** bünyesinde gerçekleştirilen **Python ile Veri Bil
   - Not aralıklarına göre başarı durumu ve belge (Takdir/Teşekkür) hesaplama aracı.
 
 ---
+### 📌 2. Oturum: Döngüler, Fonksiyonlar ve Veri Yapıları
 
-## 📂 Dosya Yapısı
+İkinci oturum kapsamında Python'da döngüler, fonksiyonlar ve temel veri yapıları üzerine uygulamalar yapılmıştır:
 
-```text
+* **Döngüler:** `for`, `while` ve `range()` kullanımı.
+* **Fonksiyonlar:** Fonksiyon oluşturma, parametre ve `return` kullanımı.
+* **Veri Yapıları:** Liste, sözlük, demet (tuple) ve küme (set) yapıları.
+* **String İşlemleri:** `upper()`, `lower()` ve `format()` kullanımı.
+* **Uygulamalar:** Parola kontrolü, kullanıcı girişi ve temel algoritma örnekleri.
+
+📂 Dosya Yapısı
+
 ├── Python_Oturum_1.ipynb   # 1. Oturum: Değişkenler, operatörler ve koşullu durumlar
+├── Python_Oturum_2.ipynb   # 2. Oturum: Döngüler, fonksiyonlar ve veri yapıları
 └── README.md               # Proje tanıtım dokümanı
