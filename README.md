@@ -27,8 +27,11 @@ Bu depo, **Tech İstanbul** bünyesinde gerçekleştirilen **Python ile Veri Bil
 * **String İşlemleri:** `upper()`, `lower()` ve `format()` kullanımı.
 * **Uygulamalar:** Parola kontrolü, kullanıcı girişi ve temel algoritma örnekleri.
 
-📂 Dosya Yapısı
+📂 **Dosya Yapısı**
 
+```text
 ├── Python_Oturum_1.ipynb  # 1. Oturum: Değişkenler, operatörler ve koşullu durumlar
 ├── Python_Oturum_2.ipynb  # 2. Oturum: Döngüler, fonksiyonlar ve veri yapıları
 └── README.md              # Proje tanıtım dokümanı
+```
+
